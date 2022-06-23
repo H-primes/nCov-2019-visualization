@@ -47,7 +47,7 @@
     "glob": "7.0.0",
     "jest": "^24.9.0",
     "jest-canvas-mock": "^2.2.0",
-    "jsdom": "^15.2.1",
+    "jsdom": "^16.5.0",
     "jshint": "2.10.2",
     "open": "6.4.0",
     "pixelmatch": "5.0.2",
